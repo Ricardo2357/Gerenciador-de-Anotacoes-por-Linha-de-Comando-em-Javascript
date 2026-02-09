@@ -1,7 +1,7 @@
 # Gerenciador-de-Anotacoes-por-Linha-de-Comando-em-Javascript
 
 <p align = "left">
-<img src = "https://img.freepik.com/vetores-premium/ilustracao-plana-de-membros-da-equipe-abordando-questoes-com-resolucao-de-problemas-estrategicos-em-quadro-branco_269730-3426.jpg" alt = "Banner do Gerenciador de Anotações" width = "350">
+<img src = "https://img.freepik.com/vetores-premium/ilustracao-plana-de-membros-da-equipe-abordando-questoes-com-resolucao-de-problemas-estrategicos-em-quadro-branco_269730-3426.jpg" alt = "Banner do Gerenciador de Anotações" width = "500">
 </p>
 
 ## Demonstração
