@@ -1,7 +1,7 @@
 # Gerenciador-de-Anotacoes-por-Linha-de-Comando-em-Javascript
 
 <p align = "left">
-<img src = "https://static.vecteezy.com/ti/vetor-gratis/p1/4485590-mulher-gerente-priorizando-tarefas-em-lista-a-fazer-mulher-tomando-notas-planejando-seu-trabalho-sublinhando-pontos-importantes-ilustracaoial-para-agenda-lista-de-verificacao-gerenciamento-eficiencia-conceito-vetor.jpg" alt = "Banner do Gerenciador de Anotações" width = "350">
+<img src = "https://static.vecteezy.com/ti/vetor-gratis/p1/33285976-ilustracaoial-grafico-personagem-de-desenho-animado-de-prioridades-vetor.jpg" alt = "Banner do Gerenciador de Anotações" width = "350">
 </p>
 
 ## Demonstração
