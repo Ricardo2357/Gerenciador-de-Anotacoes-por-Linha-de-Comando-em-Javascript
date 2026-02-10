@@ -1,5 +1,5 @@
 # Gerenciador-de-Anotacoes-por-Linha-de-Comando-em-Javascript
-
+Este projeto consiste em um Gerenciador de Anotações por Linha de Comando, uma ferramenta leve desenvolvida em Node.js que funciona inteiramente no terminal. Ele permite criar, listar, ler, atualizar e remover anotações (CRUD) de forma eficiente, armazenando os dados em um arquivo JSON local.
 
 <p align = "left">
 <img src = "https://img.freepik.com/vetores-premium/ilustracao-plana-de-membros-da-equipe-abordando-questoes-com-resolucao-de-problemas-estrategicos-em-quadro-branco_269730-3426.jpg" alt = "Banner do Gerenciador de Anotações" width = "500">
