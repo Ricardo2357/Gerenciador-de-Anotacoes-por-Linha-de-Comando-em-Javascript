@@ -29,6 +29,7 @@ Interface do gerenciador de anotações em execução no terminal.
 1. Abra o Terminal, dentro da pasta do projeto;
    
 2. Execute o seguinte comando para instalar as dependências:
+
    ```
    npm install
    ```
@@ -49,8 +50,8 @@ Interface do gerenciador de anotações em execução no terminal.
 
 ```
 Gerenciador-de-Anotações-por-Linha-de-Comando-em-Javascript/
-├── assets/
-│   └── Gerenciador-de-Anotações-Terminal.png
+├── images/
+│   └── terminal-gerenciador-de-anotações.png
 ├── LICENSE
 ├── README.md
 ├── app.js
