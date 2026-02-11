@@ -7,7 +7,7 @@ Este projeto consiste em um Gerenciador de Anotações por Linha de Comando, uma
 
 ## Demonstração
 
-![Imagem do Terminal](assets/Gerenciador-de-Anotações-Terminal.png)
+![Imagem do Terminal](images/terminal-gerenciador-de-anotações.png)
 
 Interface do gerenciador de anotações em execução no terminal.
 
